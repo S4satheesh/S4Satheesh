@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I’m **N. Satheesh**  
+💻 **Quality Assurance Lead** | **Automation Testing Expert** | **7+ Years of Experience**
 
-<!--
-**S4satheesh/S4Satheesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m passionate about delivering high-quality software through robust testing frameworks and automation strategies.
 
-Here are some ideas to get you started:
+## 🛠️ **What I Do**
+- **Automation Testing:** Experienced in designing and implementing test automation frameworks using **Selenium**, **Java**, and **Maven**.
+- **API Testing:** Proficient in tools like **Postman** for testing RESTful APIs and validating data integrity.
+- **Performance Testing:** Skilled in tools such as **JMeter** for performance benchmarking and optimization.
+- **Version Control:** Extensive experience with **Git** for collaboration and version management.
+- **SQL Expertise:** Writing queries to validate data during test processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **What I’ve Worked On**
+- **Transactional Central (Connex Info System Pvt Ltd):** Streamlined credit and ACH transaction testing, enhancing automation and improving test accuracy.
+- **GeeBee (Leap Scholar):** Implemented automated testing to support SaaS platforms for educational services.
+- **Friday Media Group:** Led QA for multiple web and mobile apps, reducing regression testing time by 30% through automation.
+
+## 🌟 **Skills & Tools**
+- **Languages & Tools:** Java, Selenium, Postman, JIRA, JMeter, Git, Jenkins
+- **Testing Expertise:** Functional Testing, Regression Testing, API Testing, Database Testing
+- **Domain Knowledge:** E-commerce, Banking, SaaS platforms
+
+## 🌱 **What I’m Learning**
+I’m currently exploring **CI/CD pipelines** and integrating automated testing into DevOps workflows.
+
+## 📫 **Let’s Connect**
+- **Email:** [satheeshn001@gmail.com](mailto:satheeshn001@gmail.com)
+- **LinkedIn:** [linkedin.com/in/satheesh-n-40371450](https://www.linkedin.com/in/satheesh-n-40371450)
