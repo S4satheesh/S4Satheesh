@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m passionate about delivering high-quality software th
 
 ## 🛠️ **What I Do**
 - **Automation Testing:** Experienced in designing and implementing test automation frameworks using **Selenium**, **Java**, and **Maven**.
-- **API Testing:** Proficient in tools like **Postman** for testing RESTful APIs and validating data integrity.
+- **API Testing:** Proficient in tools like **Postman** for testing RESTful APIs and validating data integrity.Using **Rest Assured** with **Java**, implemented API automation.
 - **Performance Testing:** Skilled in tools such as **JMeter** for performance benchmarking and optimization.
 - **Version Control:** Extensive experience with **Git** for collaboration and version management.
 - **SQL Expertise:** Writing queries to validate data during test processes.
