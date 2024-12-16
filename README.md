@@ -25,4 +25,4 @@ I’m currently exploring **CI/CD pipelines** and integrating automated testing 
 
 ## 📫 **Let’s Connect**
 - **Email:** [satheeshn001@gmail.com](mailto:satheeshn001@gmail.com)
-- **LinkedIn:** [linkedin.com/in/satheesh-n-40371450](https://www.linkedin.com/in/satheesh-n-40371450)
+- **LinkedIn:** www.linkedin.com/in/s4satheesh
