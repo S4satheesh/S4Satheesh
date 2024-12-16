@@ -16,12 +16,12 @@ Welcome to my GitHub! I’m passionate about delivering high-quality software th
 - **Friday Media Group:** Led QA for multiple web and mobile apps, reducing regression testing time by 30% through automation.
 
 ## 🌟 **Skills & Tools**
-- **Languages & Tools:** Java, Selenium, Postman, JIRA, JMeter, Git, Jenkins
-- **Testing Expertise:** Functional Testing, Regression Testing, API Testing, Database Testing
-- **Domain Knowledge:** E-commerce, Banking, SaaS platforms
+- **Languages & Tools:** Java, Selenium, Postman, Swagger, Soap UI, JIRA, JMeter, Git, Jenkins.
+- **Testing Expertise:** Functional Testing, Regression Testing, API Testing, Database Testing.
+- **Domain Knowledge:** E-commerce, Banking, SaaS platforms.
 
 ## 🌱 **What I’m Learning**
-I’m currently exploring **CI/CD pipelines** and integrating automated testing into DevOps workflows.
+Exploring CI/CD Pipelines: Integrating **Docker** and **Kubernetes** into DevOps workflows to enhance automation, scalability, and deployment efficiency.
 
 ## 📫 **Let’s Connect**
 - **Email:** [satheeshn001@gmail.com](mailto:satheeshn001@gmail.com)
